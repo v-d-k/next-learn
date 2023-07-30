@@ -105,3 +105,12 @@ a {
     color-scheme: dark;
   }
 }
+
+nav {
+  padding: 5px;
+  margin: 5px;
+}
+
+Link {
+  margin: 5px;
+}
